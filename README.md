@@ -25,6 +25,11 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)](https://laravel.com/)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter&logoColor=DD4814)](https://codeigniter.com/)
 
+#### Base de données
+[![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)](https://www.postgresql.org)
+
 #### Réseaux
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aymeric-gourdon-7b1a6264/)
