@@ -17,7 +17,7 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 | ------------- | ------------- |
 
 #### Autres statistiques
-[![GitHub Streak](https://streak-stats.demolab.com/?user=counteraccro)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=counteraccro&date_format=d m Y)](https://git.io/streak-stats)
 
 #### Top Repositories
 
