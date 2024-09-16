@@ -16,12 +16,10 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 
 #### Frameworks
 
-##### CSS
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=BootstrapS&logoColor=7431FA)](https://bootstrap.com)
-
-##### PHP
-[![Bootstrap](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=7431FA)](https://symfony.com/)
-[![Bootstrap](https://img.shields.io/badge/-CakePHP-000?&logo=CakePHP&logoColor=7431FA)](https://cakephp.org/)
+| CSS  | PHP          | JS |
+| :---------------: |:---------------:| :-----:|
+| [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=BootstrapS&logoColor=7431FA)](https://bootstrap.com) |   [![Bootstrap](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=7431FA)](https://symfony.com/)
+[![Bootstrap](https://img.shields.io/badge/-CakePHP-000?&logo=CakePHP&logoColor=7431FA)](https://cakephp.org/)        |  Aligné à droite |
 
 #### Réseaux
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
