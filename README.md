@@ -25,6 +25,11 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)](https://laravel.com/)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter&logoColor=DD4814)](https://codeigniter.com/)
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) :
+[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=58C4DC)](https://fr.legacy.reactjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=CD37F0)](https://angular.dev/)
+
 #### Base de données
 [![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
