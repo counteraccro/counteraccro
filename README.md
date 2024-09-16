@@ -20,10 +20,10 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=BootstrapS&logoColor=7431FA)](https://bootstrap.com)
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net) : 
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=7431FA)](https://symfony.com/)
-[![CakePHP](https://img.shields.io/badge/-CakePHP-000?&logo=CakePHP&logoColor=7431FA)](https://cakephp.org/)
-[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=7431FA)](https://cakephp.org/)
-[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter&logoColor=7431FA)](https://cakephp.org/)
+[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=E5E8E4)](https://symfony.com/)
+[![CakePHP](https://img.shields.io/badge/-CakePHP-000?&logo=CakePHP&logoColor=D33C44)](https://cakephp.org/)
+[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)](https://laravel.com/)
+[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=CodeIgniter&logoColor=DD4814)](https://codeigniter.com/)
 
 #### Réseaux
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
