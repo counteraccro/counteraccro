@@ -12,6 +12,8 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 | [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api?username=counteraccro&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=counteraccro&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=counteraccro)](https://git.io/streak-stats)
+
 #### Top Repositories
 
 [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=counteraccro&repo=natheo)](https://github.com/anuraghazra/github-readme-stats)
