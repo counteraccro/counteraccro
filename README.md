@@ -9,7 +9,7 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 - ⚡Fun fact : Qui ce rappel de [script.aculos](http://script.aculo.us/) ? Le JS de 2010 
 
 #### Réseaux
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/counteraccro)
+[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aymeric-gourdon-7b1a6264/)
 
 #### Mes statistiques Github
