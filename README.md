@@ -14,6 +14,10 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+#### Frameworks
+- CSS : [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=BootstrapS&logoColor=7431FA)](https://bootstrap.com)
+- PHP : [![Bootstrap](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=7431FA)](https://symfony.com/)
+
 #### Réseaux
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aymeric-gourdon-7b1a6264/)
