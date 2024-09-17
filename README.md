@@ -51,5 +51,5 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=counteraccro&repo=natheo.doc)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right">
-![profile count](https://komarev.com/ghpvc/?username=counteraccro)
+![profile count](https://komarev.com/ghpvc/?username=counteraccro?color=red)
 </p>
