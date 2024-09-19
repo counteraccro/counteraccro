@@ -1,6 +1,6 @@
 ## Bonjour Je suis counteraccro  👋
 
-Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un grand passionné du web et de ses technologies.
+Développeur web fullstack spécialisé dans le PHP, avec 15 ans d'XP, je reste encore aujourd'hui un grand passionné du web et de ses technologies.
 
 #### A propos de moi
 - 💼 Fondateur / lead developpeur du projet NatheoCMS
@@ -36,7 +36,7 @@ Développeur web fullstack avec 15 ans d'XP, je reste encore aujourd'hui un gran
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)](https://www.postgresql.org)
 
 #### Réseaux
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
+[![Github](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aymeric-gourdon-7b1a6264/)
 
 #### Mes statistiques Github
