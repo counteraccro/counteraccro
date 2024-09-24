@@ -2,7 +2,7 @@
 
 Développeur web fullstack spécialisé dans le PHP, 15 ans d'XP en milieu professionnel, je reste encore aujourd'hui un grand passionné du web et de ses technologies.
 
-#### A propos de moi
+#### :octocat: A propos de moi
 - 💼 Fondateur / Lead developpeur du projet NatheoCMS
 - ❤️ Symfony-man depuis la V3
 - 💬 Venez me parler de tout et n'importe quoi [sur mon discord](https://discord.gg/CgcMCcbmaR)
@@ -46,9 +46,6 @@ Développeur web fullstack spécialisé dans le PHP, 15 ans d'XP en milieu profe
 
 #### Autres statistiques
 [![GitHub Streak](https://streak-stats.demolab.com/?user=counteraccro&locale=fr)](https://git.io/streak-stats)
-
-#### 🏆 Mes trophés
-[![trophy](https://github-profile-trophy.vercel.app/?username=counteraccro&column=5&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![profile count](https://komarev.com/ghpvc/?username=counteraccro)
 
