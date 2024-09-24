@@ -47,6 +47,8 @@ Développeur web fullstack spécialisé dans le PHP, 15 ans d'XP en milieu profe
 #### Autres statistiques
 [![GitHub Streak](https://streak-stats.demolab.com/?user=counteraccro&locale=fr)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=counteraccro)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![profile count](https://komarev.com/ghpvc/?username=counteraccro)
 
 #### Top Repositories
