@@ -52,3 +52,11 @@ Développeur web fullstack spécialisé dans le PHP, 15 ans d'XP en milieu profe
 #### :1st_place_medal: Top Repositories
 [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=counteraccro&repo=natheo)](https://github.com/anuraghazra/github-readme-stats)
 [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=counteraccro&repo=natheo.doc)](https://github.com/anuraghazra/github-readme-stats)
+
+*Derniére mise à jour : Le 15 janvier 2025*
+
+
+
+
+
+
