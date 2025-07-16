@@ -40,7 +40,7 @@ Développeur web fullstack spécialisé dans le PHP, 15 ans d'XP en milieu profe
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aymeric-gourdon-7b1a6264/)
 
 #### :bar_chart: Mes statistiques Github
-| [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api?username=counteraccro&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=counteraccro&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+| [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api?username=counteraccro&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=counteraccro&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 #### :bar_chart: Autres statistiques
