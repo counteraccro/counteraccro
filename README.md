@@ -64,7 +64,7 @@ NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meill
 [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=counteraccro&repo=natheo)](https://github.com/anuraghazra/github-readme-stats)
 [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=counteraccro&repo=natheo.doc)](https://github.com/anuraghazra/github-readme-stats)
 
-*Derniére mise à jour : Le 15 janvier 2025*
+*Derniére mise à jour : Le 18 juillet 2025*
 
 
 
