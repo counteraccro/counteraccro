@@ -53,7 +53,7 @@ NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meill
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aymeric-gourdon-7b1a6264/)
 
 #### :bar_chart: Mes statistiques Github
-| [![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=counteraccro&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=counteraccro&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+| [![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=counteraccro&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=counteraccro&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 #### :bar_chart: Autres statistiques
@@ -63,8 +63,8 @@ NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meill
 ![profile count](https://komarev.com/ghpvc/?username=counteraccro)
 
 #### :1st_place_medal: Top Repositories
-[![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=counteraccro&repo=natheo)](https://github.com/anuraghazra/github-readme-stats)
-[![Counteraccro's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=counteraccro&repo=natheo.doc)](https://github.com/anuraghazra/github-readme-stats)
+[![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=counteraccro&repo=natheo)](https://github.com/anuraghazra/github-readme-stats)
+[![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=counteraccro&repo=natheo.doc)](https://github.com/anuraghazra/github-readme-stats)
 
 *Derniére mise à jour : Le 11 septembre 2025*
 
