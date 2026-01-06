@@ -16,11 +16,11 @@ NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meill
 - [Documentation](https://counteraccro.github.io/natheo.doc/)
 
 > [!IMPORTANT]  
-> La [Bêta 2](https://github.com/counteraccro/natheo/releases) de NatheoCMS est maintenant disponible.
+> La [V1](https://github.com/counteraccro/natheo/releases) de NatheoCMS est maintenant disponible.
 >
-> Quoi de neuf ? Natheo CMS à maintenant un front de démonstration
+> Quoi de neuf ? Natheo CMS à maintenant une version V1 fonctionnelle, en route vers la V2
 >
-> *C'est une bêta, et comme toute bêta celle-ci doit comporter de nombreux bugs, n'hésitez pas à venir me les [signaler ici](https://github.com/counteraccro/natheo/issues)*
+> *C'est une V1, et comme toute V1 celle-ci doit comporter de nombreux bugs, n'hésitez pas à venir me les [signaler ici](https://github.com/counteraccro/natheo/issues)*
 
 #### :green_book: Langages
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
