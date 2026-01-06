@@ -23,6 +23,14 @@ NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meill
 >
 > *C'est une V1, et comme toute V1 celle-ci doit comporter de nombreux bugs, n'hésitez pas à venir me les [signaler ici](https://github.com/counteraccro/natheo/issues)*
 
+## Mes soft skills
+- Capacité à expliquer des concepts techniques à des non-techniciens
+- Travail en équipe et collaboration sur des projets complexes
+- Créativité dans la recherche de solutions techniques
+- Curiosité et veille technologique
+- Persévérance face aux défis techniques
+- Esprit d'initiative et force de proposition
+
 ## Ma stack technique
 
 #### :green_book: Langages
