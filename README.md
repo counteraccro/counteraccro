@@ -9,8 +9,7 @@ Développeur web fullstack spécialisé dans le PHP, 15 ans d'XP en milieu profe
 - 🔱 Passionné par le développement web depuis 2002
 - ⚡Fun fact : Qui ce rappel de [script.aculos](http://script.aculo.us/) ? Le JS de 2010
 
----
-
+## Mes projets
 #### :small_blue_diamond: Natheo CMS
 
 NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meilleur compromis entre un site clé en main et la possibilité de le façonner à votre envie.
@@ -24,7 +23,7 @@ NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meill
 >
 > *C'est une V1, et comme toute V1 celle-ci doit comporter de nombreux bugs, n'hésitez pas à venir me les [signaler ici](https://github.com/counteraccro/natheo/issues)*
 
----
+## Ma stack technique
 
 #### :green_book: Langages
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
