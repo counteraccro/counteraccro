@@ -36,12 +36,13 @@ NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meill
 #### :green_book: Langages
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### :orange_book: Frameworks
-[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS) : 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=BootstrapS&logoColor=7431FA)](https://bootstrap.com)
+[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS) : 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=BootstrapS&logoColor=7431FA)](https://bootstrap.com) 
+[![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?logo=Tailwindcss)](https://tailwindcss.com/)
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net) : 
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=E5E8E4)](https://symfony.com/)
