@@ -1,6 +1,6 @@
 ## Bonjour Je suis counteraccro  👋
 
-Développeur web fullstack spécialisé dans le PHP, 15 ans d'XP en milieu professionnel, je reste encore aujourd'hui un grand passionné du web et de ses technologies.
+Développeur web fullstack spécialisé dans le PHP, 18 ans d'XP en milieu professionnel, je reste encore aujourd'hui un grand passionné du web et de ses technologies.
 
 #### :octocat: A propos de moi
 - 💼 Fondateur / Lead developpeur du projet NatheoCMS
