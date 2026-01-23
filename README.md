@@ -41,7 +41,7 @@ NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meill
 
 #### :orange_book: Frameworks
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS) : 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=BootstrapS&logoColor=7431FA)](https://bootstrap.com) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=7431FA)](https://bootstrap.com) 
 [![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?logo=Tailwindcss)](https://tailwindcss.com/)
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net) : 
