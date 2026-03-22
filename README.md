@@ -34,7 +34,7 @@ Voici une liste non exhaustive des nouveautés :
 - 🏗️ **Une base technique solide** — Migration vers Symfony 8.0, code PHP modernisé et mieux structuré
 - 🔷 **TypeScript** — Le frontend migre progressivement vers TypeScript pour plus de robustesse
 
-Pas de date de sortie prévu pour le moment, je fait au mieux.
+La V2 est en cours de développement actif. Pas de date de sortie fixée, mais ça avance !
 
 ## Mes soft skills
 - Capacité à expliquer des concepts techniques à des non-techniciens
