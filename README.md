@@ -34,6 +34,8 @@ Voici une liste non exhaustive des nouveautés :
 - 🏗️ **Une base technique solide** — Migration vers Symfony 8.0, code PHP modernisé et mieux structuré
 - 🔷 **TypeScript** — Le frontend migre progressivement vers TypeScript pour plus de robustesse
 
+**Date de mise en ligne prévu** : *Je suis dessus et je fait au mieux*
+
 ## Mes soft skills
 - Capacité à expliquer des concepts techniques à des non-techniciens
 - Travail en équipe et collaboration sur des projets complexes
