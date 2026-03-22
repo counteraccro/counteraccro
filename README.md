@@ -23,6 +23,17 @@ NatheoCMS est un CMS headless développé avec Symfony pour vous offrir le meill
 >
 > *C'est une V1, et comme toute V1 celle-ci doit comporter de nombreux bugs, n'hésitez pas à venir me les [signaler ici](https://github.com/counteraccro/natheo/issues)*
 
+##### 🚀 Les nouveautés de la V2
+
+La V2 de Natheo CMS est une grosse mise à jour technique, nécessaire pour assurer un avenir au CMS. L'objectif est de retravailler les interfaces graphiques et de consolider le code existant en limitant au maximum la dette technique.
+
+Voici une liste non exhaustive des nouveautés :
+
+- 🎨 **Une interface entièrement repensée** — Le backoffice a été redesigné de A à Z pour une expérience plus moderne et agréable au quotidien
+- ⚡ **Des performances améliorées** — Migration vers Vite et TailwindCSS 4 pour un frontend plus rapide et plus léger
+- 🏗️ **Une base technique solide** — Migration vers Symfony 8.0, code PHP modernisé et mieux structuré
+- 🔷 **TypeScript** — Le frontend migre progressivement vers TypeScript pour plus de robustesse
+
 ## Mes soft skills
 - Capacité à expliquer des concepts techniques à des non-techniciens
 - Travail en équipe et collaboration sur des projets complexes
