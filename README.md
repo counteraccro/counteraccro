@@ -101,7 +101,7 @@ La V2 est en cours de développement actif. Pas de date de sortie fixée, mais �
 [![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=counteraccro&repo=natheo)](https://github.com/anuraghazra/github-readme-stats)
 [![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=counteraccro&repo=natheo.doc)](https://github.com/anuraghazra/github-readme-stats)
 
-*Derniére mise à jour : Le 23 janvier 2026* 
+*Derniére mise à jour : Le 31 mars 2026* 
 
 
 
