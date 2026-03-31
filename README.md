@@ -81,6 +81,8 @@ La V2 est en cours de développement actif. Pas de date de sortie fixée, mais �
 [![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
 [![Objective-C](https://img.shields.io/badge/-Objective--C-000?&logo=apple&logoColor=white)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
+<sub>*Langages que j'ai pratiqué durant mes études et au début de ma carrière*</sub>
+
 #### :earth_africa: Réseaux
 [![Github](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aymeric-gourdon-7b1a6264/)
