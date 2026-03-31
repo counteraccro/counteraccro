@@ -76,7 +76,8 @@ La V2 est en cours de développement actif. Pas de date de sortie fixée, mais �
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)](https://www.postgresql.org)
 
 #### :hammer_and_wrench: Autres langages
-<sub>*Langages que j'ai pratiqué durant mes études et au début de ma carrière*</sub><br />
+<sub>*Langages que j'ai pratiqué durant mes études et au début de ma carrière*</sub>
+
 [![Java J2EE](https://img.shields.io/badge/-Java%20J2EE-000?&logo=java&logoColor=ED8B00)](https://www.java.com/)
 [![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
