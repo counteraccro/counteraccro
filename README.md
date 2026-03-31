@@ -75,6 +75,12 @@ La V2 est en cours de développement actif. Pas de date de sortie fixée, mais �
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)](https://www.postgresql.org)
 
+#### :hammer_and_wrench: Autres langages
+[![Java J2EE](https://img.shields.io/badge/-Java%20J2EE-000?&logo=java&logoColor=ED8B00)](https://www.java.com/)
+[![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
+[![Objective-C](https://img.shields.io/badge/-Objective--C-000?&logo=apple&logoColor=white)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+
 #### :earth_africa: Réseaux
 [![Github](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aymeric-gourdon-7b1a6264/)
