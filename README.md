@@ -80,8 +80,7 @@ La V2 est en cours de développement actif. Pas de date de sortie fixée, mais �
 [![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
 [![Objective-C](https://img.shields.io/badge/-Objective--C-000?&logo=apple&logoColor=white)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-
-<sub>*Langages que j'ai pratiqué durant mes études et au début de ma carrière*</sub>
+<br/><sub>*Langages que j'ai pratiqué durant mes études et au début de ma carrière*</sub>
 
 #### :earth_africa: Réseaux
 [![Github](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/counteraccro)
