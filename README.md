@@ -51,6 +51,7 @@ La V2 est en cours de développement actif. Pas de date de sortie fixée, mais �
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 #### :orange_book: Frameworks
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS) : 
