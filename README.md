@@ -88,7 +88,7 @@ La V2 est en cours de développement actif. Pas de date de sortie fixée, mais �
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/aymeric-gourdon-7b1a6264/)
 
 #### :bar_chart: Mes statistiques Github
-| [![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=counteraccro&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=counteraccro&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+| [![Counteraccro's GitHub stats](github-stats-extended.vercel.app/api?username=counteraccro&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Counteraccro's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=counteraccro&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 #### :bar_chart: Autres statistiques
